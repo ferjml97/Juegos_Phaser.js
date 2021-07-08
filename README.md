@@ -7,11 +7,11 @@
 # Juegos con Phaser.js
 
 ### Indice
-<div style="text-color: white;">
+<div style="style='text-decoration:none;">
 	
   - [Descripción](#Descripción)
   - **Enlaces de Interés**
-</div>	
+
 
 <details>
 	<summary>primero</summary>
