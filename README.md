@@ -7,7 +7,7 @@
 # Juegos con Phaser.js
 
 ### Indice
-  - [Descripción](#Descripción)
+  - [Descripción](# Descripción)
   - **Enlaces de Interés**
 
 <!DOCTYPE html>
@@ -17,12 +17,7 @@
 	<summary>primero</summary>
     	<p hspace="10"><h1>The summary element</h1></p>
       <ul style="list-style-type: none">
-        <li style="list-style-type: none">
-          <details>
-            <summary>segundo</summary>
-            <p hspace="10"><h1>The summary element</h1></p>
-          </details>
-        </li>
+        <li style="list-style-type: none"><details><summary>segundo</summary><p hspace="10"><h1>The summary element</h1></p></details></li>
       </ul>
 </details>
 </body>
