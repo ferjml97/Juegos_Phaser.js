@@ -9,12 +9,15 @@
 ### Indice
   - [Descripción](#Descripción)
   - **Enlaces de Interés**
-  - 
+
+<!DOCTYPE html>
+<html>
+<body>
 <details>
 	<summary>primero</summary>
     	<p hspace="10"><h1>The summary element</h1></p>
       <ul style="list-style-type: none">
-        <li>
+        <li style="list-style-type: none">
           <details>
             <summary>segundo</summary>
             <p hspace="10"><h1>The summary element</h1></p>
@@ -22,6 +25,8 @@
         </li>
       </ul>
 </details>
+</body>
+</html>
 
 <img src="https://phaser.io/images/img.png" align="right" height="150" width="150" hspace="10">
 <div style="text-align: justify;">
