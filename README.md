@@ -11,27 +11,22 @@
 	
   - [Descripción](#Descripción)
   - **Enlaces de Interés**
+</div>	
 
-<!DOCTYPE html>
-<html>
-<body>
 <details>
 	<summary>primero</summary>
-    	<p hspace="10"><h1>The summary element</h1></p>
-	<div  style="style-type: none>
+  	<p hspace="10"><h1>The summary element</h1></p>
+			<div>
       	<ul style="list-style-type: none">
-        	<li style="list-style-type: none">
-			<details>
+        	<li>
+                <details>
 				<summary>segundo</summary>
-				<p hspace="10"><h1>The summary element</h1></p>
+				<p ><h1>The summary element</h1></p>
 			</details>
 		</li>
-      </ul>
-					      ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-	</div>			       asi es mmiua
+      </ul>			
+
 </details>
-</body>
-</html>
 
 <img src="https://phaser.io/images/img.png" align="right" height="150" width="150" hspace="10">
 <div style="text-align: justify;">
