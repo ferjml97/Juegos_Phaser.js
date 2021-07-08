@@ -7,7 +7,9 @@
 # Juegos con Phaser.js
 
 ### Indice
-  - [Descripción](# Descripción)
+<div style="text-color: white;">
+	
+  - [Descripción](#Descripción)
   - **Enlaces de Interés**
 
 <!DOCTYPE html>
@@ -16,9 +18,17 @@
 <details>
 	<summary>primero</summary>
     	<p hspace="10"><h1>The summary element</h1></p>
-      <ul style="list-style-type: none">
-        <li style="list-style-type: none"><details><summary>segundo</summary><p hspace="10"><h1>The summary element</h1></p></details></li>
+	<div  style="style-type: none>
+      	<ul style="list-style-type: none">
+        	<li style="list-style-type: none">
+			<details>
+				<summary>segundo</summary>
+				<p hspace="10"><h1>The summary element</h1></p>
+			</details>
+		</li>
       </ul>
+					      ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+	</div>			       asi es mmiua
 </details>
 </body>
 </html>
